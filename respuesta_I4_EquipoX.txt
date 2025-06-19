@@ -7,3 +7,13 @@ A)blue
 B)yellow
 C)red
 D)beta
+E)Si, BETA y GAMMA
+F)Errores con los merge por archivos con distinto contenido y push asincrónicos.
+G)Hacer un pull luego de cada push, las consecuencias serian borrar algunos cambios.
+H)Lanza un mensaje:
+
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/tobias2311/TP_SO_I4_Equipo_.git
+ + 51e5851...b8c80a1 TESTING -> TESTING (forced update)
+
+I)Hacer un merge de cada uno
